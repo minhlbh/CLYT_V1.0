@@ -79,6 +79,13 @@ body {
 .fxs-block {
     flex: 0 0 auto;
     background-color: #eee;
-    width: 300px;
+    width: 320px;
+    border: 1px solid #fff;
+}
+
+.fxs-block details {
+    flex: 0 0 auto;
+    background-color: #eee;
+    width: 1020px;
     border: 1px solid #fff;
 }
